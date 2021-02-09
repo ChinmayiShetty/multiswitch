@@ -1,0 +1,144 @@
+.multiswitch {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.multiswitch-border {
+  border: 2px solid black;
+  padding: 10px;
+  width: 45%;
+  margin: 0 auto 25px auto;
+}
+
+.container-class .container {
+  position: relative;
+  text-align: center;
+    width: 100px;
+    display: inline-block;
+    vertical-align: 25px;
+    margin-top: 20px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    color: white;
+}
+
+.multiswitch .btn.btn-outline {
+  border-color: #6400aa;
+  color: #6400aa;
+  border-width: 2px;
+  margin: 8px;
+  width: 8%;
+    box-shadow: none;
+}
+
+.multiswitch-border .btn.btn-outline {
+  border-color: #6400aa;
+  color: #6400aa;
+  border-width: 2px;
+  margin: 4px;
+  width: 16%;
+    box-shadow: none;
+
+}
+/*.btn.button-selected-active {
+
+  background-color: green;
+border-color: green;
+}*/
+.multiswitch .btn.btn-outline.button-selected-active {
+  background-color: green;
+    color: #FFFFFF;
+    border-color: green;
+
+
+}
+
+.data-section{
+
+    display: inline-block;
+}
+.container-class {
+
+    border: 1px solid grey;
+    padding: 2px;
+    width: 25%;
+    margin: 30px auto 25px auto;
+    -webkit-border-radius: 7px;
+}
+
+.multiswitch-timer {
+
+    background-color: white;
+}
+
+.plan-features{
+    margin-top: 30px;
+
+}
+.tick-mark {
+    padding: 5px;
+}
+
+.merch-sixGB {
+    background-color: #ffdc00;
+    -webkit-border-radius: 7px;
+    padding: 5px;
+    margin-bottom: 0;
+
+
+}
+.price-card {
+    background-color: #eeeeee;
+    padding: 10px;
+}
+.choose-plan-cta {
+    background: #e20046;
+    border-color: #e20046;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.was-price{
+    text-decoration: line-through;
+}
+
+.price, .saved-price{
+    display: contents;
+
+}
+.saving-text {
+    color: #007a00;
+    font-size: 20px;
+    line-height: 25px;
+    font-family: "bt_font_bold","Calibri","Arial",sans-serif;
+    font-weight: bold;
+}
+.caret {
+    top: -1.0rem;
+}
+.plan-text{
+    padding: 10px;
+}
+.count-down {
+    background-color: #ffdc00;
+padding-bottom: 20px;
+    padding-left: 80px;
+    padding-right: 94px;
+    display: grid;
+}
+.countdown-timer{
+    background-color: #FFFFFF;
+}
+.container-class {
+    border: 1px solid grey;
+}
+.change-border {
+    border-color: #ffdc00;
+}
